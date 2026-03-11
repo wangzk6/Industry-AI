@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: Industry4.0-Backend
+  ai:
+    dashscope:
+      api-key: sk-d32a1dbb0bf841708b068a3829ef8334
+      chat:
+        options:
+          model: qwen-max
+
+# 高德天气 API Key（国内可用，注册：https://lbs.amap.com/）
+weather:
+  api-key: 380cc1b0c722ad3f0ed9af90549c0ddd
+
+logging:
+  level:
+    com.kelvin.industry.aili: INFO
+    org.springframework.ai.chat.client.advisor: DEBUG
