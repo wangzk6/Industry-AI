@@ -1,4 +1,4 @@
-package com.kelvin.industry.aili;
+package com.kelvin.industry.aili.weather_agent;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.SimpleLoggerAdvisor;

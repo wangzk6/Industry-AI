@@ -1,4 +1,4 @@
-package com.kelvin.industry.aili;
+package com.kelvin.industry.aili.weather_agent;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.model.ToolContext;

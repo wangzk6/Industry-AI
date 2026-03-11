@@ -1,4 +1,4 @@
-package com.kelvin.industry.aili;
+package com.kelvin.industry.aili.weather_agent;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
